@@ -1,6 +1,6 @@
-**Instead of trying to tackle this ---- use our hosted version --- GHL Agent Framework, One Click to Sign in!
+**Instead of trying to tackle this ---- use our hosted version --- GHL Agent Framework, One Click to Sign in!**
 
-https://www.strategixagents.com/**
+https://www.strategixagents.com/
 
 # 🚀 GoHighLevel MCP Server
 
